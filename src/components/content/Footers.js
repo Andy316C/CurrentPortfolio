@@ -45,7 +45,7 @@ export default function Footer() {
        <a href="https://www.linkedin.com/" className="text-white me-4" style={styles.footerStyle3}>
          <i className="fa fa-linkedin"></i>
        </a>
-       <a href="https://www.github.com/" className="text-white me-4" style={styles.footerStyle3}>
+       <a href="https://github.com/Andy316C" className="text-white me-4" style={styles.footerStyle3}>
          <i className="fa fa-github"></i>
        </a>
      </section>
